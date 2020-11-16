@@ -24,3 +24,17 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+
+## Screen shot
+![parakeet ](https://user-images.githubusercontent.com/73137291/99208085-c46f7980-277c-11eb-9cf0-3cfb9f1b64bd.png)
+
+
+
+## Tools Used
+
+HTML, CSS, Javascript (if/else, for loop, random. etc)
+
+## Hours worked on 
+
+16
